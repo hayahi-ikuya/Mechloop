@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity_project\\TopDown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|D:\\unity_project\\TopDown\\assets\\script\\effects\\hiteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\effects\\hiteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|D:\\unity_project\\TopDown\\assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|d:\\unity_project\\topdown\\assets\\script\\pooling\\ipoolable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pooling\\ipoolable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|D:\\unity_project\\TopDown\\assets\\script\\projectile\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|D:\\unity_project\\TopDown\\assets\\script\\interface\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interface\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|D:\\unity_project\\TopDown\\assets\\script\\pooling\\genericobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pooling\\genericobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|D:\\unity_project\\TopDown\\assets\\script\\pooling\\gameinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pooling\\gameinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|D:\\unity_project\\TopDown\\assets\\script\\player\\playerrangedattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerrangedattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|D:\\unity_project\\TopDown\\assets\\script\\player\\playermeleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playermeleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|D:\\unity_project\\TopDown\\assets\\script\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D32890-A640-21BA-8A2F-DDECB5868389}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPoolable.cs",
+              "DocumentMoniker": "D:\\unity_project\\TopDown\\Assets\\Script\\Pooling\\IPoolable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Pooling\\IPoolable.cs",
+              "ToolTip": "D:\\unity_project\\TopDown\\Assets\\Script\\Pooling\\IPoolable.cs",
+              "RelativeToolTip": "Assets\\Script\\Pooling\\IPoolable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:46:57.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HitEffect.cs",
+              "DocumentMoniker": "D:\\unity_project\\TopDown\\Assets\\Script\\Effects\\HitEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Effects\\HitEffect.cs",
+              "ToolTip": "D:\\unity_project\\TopDown\\Assets\\Script\\Effects\\HitEffect.cs",
+              "RelativeToolTip": "Assets\\Script\\Effects\\HitEffect.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:25:16.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerRangedAttack.cs",
+              "DocumentMoniker": "D:\\unity_project\\TopDown\\Assets\\Script\\Player\\PlayerRangedAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerRangedAttack.cs",
+              "ToolTip": "D:\\unity_project\\TopDown\\Assets\\Script\\Player\\PlayerRangedAttack.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerRangedAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:16:36.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\unity_project\\TopDown\\Assets\\Script\\Projectile\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile\\Bullet.cs",
+              "ToolTip": "D:\\unity_project\\TopDown\\Assets\\Script\\Projectile\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile\\Bullet.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:10:16.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\unity_project\\TopDown\\Assets\\Script\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "D:\\unity_project\\TopDown\\Assets\\Script\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T02:43:47.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameInitializer.cs",
+              "DocumentMoniker": "D:\\unity_project\\TopDown\\Assets\\Script\\Pooling\\GameInitializer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Pooling\\GameInitializer.cs",
+              "ToolTip": "D:\\unity_project\\TopDown\\Assets\\Script\\Pooling\\GameInitializer.cs",
+              "RelativeToolTip": "Assets\\Script\\Pooling\\GameInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T02:32:28.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericObjectPool.cs",
+              "DocumentMoniker": "D:\\unity_project\\TopDown\\Assets\\Script\\Pooling\\GenericObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Pooling\\GenericObjectPool.cs",
+              "ToolTip": "D:\\unity_project\\TopDown\\Assets\\Script\\Pooling\\GenericObjectPool.cs",
+              "RelativeToolTip": "Assets\\Script\\Pooling\\GenericObjectPool.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvykAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T02:17:52.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\unity_project\\TopDown\\Assets\\Script\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\unity_project\\TopDown\\Assets\\Script\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:56:15.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMeleeAttack.cs",
+              "DocumentMoniker": "D:\\unity_project\\TopDown\\Assets\\Script\\Player\\PlayerMeleeAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerMeleeAttack.cs",
+              "ToolTip": "D:\\unity_project\\TopDown\\Assets\\Script\\Player\\PlayerMeleeAttack.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerMeleeAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:37:38.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "D:\\unity_project\\TopDown\\Assets\\Script\\Interface\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Interface\\IDamageable.cs",
+              "ToolTip": "D:\\unity_project\\TopDown\\Assets\\Script\\Interface\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\Script\\Interface\\IDamageable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:37:06.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
